@@ -1,0 +1,51 @@
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: rgb(233, 130, 8);
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text1 {
+  position: relative;
+  text-align: center;
+  color: rgb(233, 130, 8);
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: rgb(233, 130, 8);
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+ img {
+     margin-top: 120px;
+     width: 17%;
+}
+
+.img2 {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ambox_clock_red.svg/1200px-Ambox_clock_red.svg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+  border-radius: 15px;
+  box-shadow: 3px 3px rgb(13, 13, 14);
+  border-image: border-box ;
+  border: solid 1px black;
+  border-image: border-box ;
+  
+  background-size: 100% 120%; 
+}
+
+
+    
